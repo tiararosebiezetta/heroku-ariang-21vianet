@@ -57,7 +57,7 @@ FAQ: [Do I have to use Docker?](#do-i-have-to-use-docker)
 6. Run `heroku open -a APP_NAME` and it will open your browser to deployed instance. 
 
 ## Deploy to Scalingo
-[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https%3A%2F%2Fgithub.com%2Ftiararosebiezetta%2FBakaLeech-v2)
+[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/tiararosebiezetta/heroku-ariang-21vianet)
 
 ## Deploy to Heroku
 
