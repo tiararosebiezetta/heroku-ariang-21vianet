@@ -22,7 +22,8 @@ Using Rclone with 21vianet mod and Aria2, even UNRAR online flexibly? Try this [
 * [Deploy by Docker 通过 Docker 部署](#deploy-by-docker-recommend)
     * [Requirement 要求](#requirement-要求)
     * [Steps 步骤](#steps-步骤)
-* [Deploy by One-Click 一键部署](#deploy-by-one-click)
+* [Deploy to Scalingo](#deploy-to-scalingo)
+* [Deploy to Heroku](#deploy-to-heroku)
 * [Connect Cloud Drive 连接网盘](#optional-connect-cloud-drive-连接网盘)
 * [FAQ 常见问题](#faq-常见问题)
 * [Thanks 致谢](#thanks-致谢)
@@ -55,7 +56,10 @@ FAQ: [Do I have to use Docker?](#do-i-have-to-use-docker)
 5. Run `heroku container:push web -a APP_NAME` and `heroku container:release web -a APP_NAME`.
 6. Run `heroku open -a APP_NAME` and it will open your browser to deployed instance. 
 
-## Deploy by One-Click
+## Deploy to Scalingo
+[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https%3A%2F%2Fgithub.com%2Ftiararosebiezetta%2FBakaLeech-v2)
+
+## Deploy to Heroku
 
 **Pay attention please: deploy by One-Click uses the Heroku built-in environment, that means your account might banned immediately.**
 
