@@ -7,10 +7,10 @@
       "description": "AriaNg login code"
     },
     "RCLONE_CONFIG": {
-      "description": "(Use backslash and n for linebreak) Configuration of rclone ( do not delete the config name -> [CONFIG NAME] ). See README",
+      "description": "(Use backslash and n for linebreak) Configuration of rclone ( do not delete the config name -> [CONFIG NAME] ). See README"
     },
     "RCLONE_DESTINATION": {
-      "description": "Destination of rclone ( the format is -> CONFIG NAME:Folder destination )",
+      "description": "Destination of rclone ( the format is -> CONFIG NAME:Folder destination )"
     }
   },
   "formation": {
